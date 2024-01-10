@@ -71,7 +71,7 @@ function generateMarkdown(data) {
   ## Tests 
   ${data.test}
   ## Questions 
-  You can find my GitHub profiel at www.github.com/${data.github}
+  You can visit my [GitHub profile](https://github.com/${data.github})
    or reach me at ${data.email} with any additional questions.
 `;
 }
